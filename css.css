@@ -2,7 +2,7 @@
 /* Heading1 style */
  h1 {
      color: #49111c;
-     font-family: "Montserrat", sans-serif;
+     font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
      font-weight: bold;
      text-align: center;
      font-size: 74px;
@@ -10,21 +10,21 @@
 /* Heading2 style */
  h2 {
      color: #0a0908;
-     font-family: "Montserrat", sans-serif;
+     font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
      text-align: center;
      font-size: 34px;
 }
 /* Heading3 style */
  h3 {
      color:#49111c;
-     font-family: "Montserrat", sans-serif;
+     font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
      font-size: 34px;
      text-align: center;
 }
 /* Heading4 style */
  h4 {
      color: white;
-     font-family: "Montserrat", sans-serif;
+     font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
      font-size: 16px;
      text-align: center;
      font-weight:600;
@@ -33,7 +33,7 @@
 /* Heading5 style */
  h5 {
      color: white;
-     font-family: "Montserrat", sans-serif;
+     font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
      font-size: 16px;
      text-align: center;
      font-weight:normal;
@@ -42,21 +42,21 @@
 /* Heading6 style */
  h6 {
      color: #0a0908;
-     font-family: "Montserrat", sans-serif;
+     font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
      text-align: center;
      font-size: 24px;
 }
 /* Paragraph style */
  p {
      color: #0a0908;
-     font-family: "Montserrat", sans-serif;
+     font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
      text-align: center;
      font-size: 16px;
 }
 /* Heading7 style */
  p2 {
      color: #0a0908;
-     font-family: "Montserrat", sans-serif;
+     font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
      text-align: center;
      font-size: 18px;
 	 font-weight: bold;
@@ -91,7 +91,8 @@
      text-align: center;
      padding: 14px 16px;
      text-decoration: none;
-     font-family: "Montserrat", sans-serif;
+     font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	 font-size: 18px;
 }
 /* Top Navigation - Link on hover style */
  .topnav a:hover {
@@ -170,7 +171,7 @@
      border-collapse:collapse;
      padding:10px;
      color: #0a0908;
-     font-family: "Montserrat", sans-serif;
+     font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
      text-align: center;
      font-size: 16px;
 }
